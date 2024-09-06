@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etrionulon.github.io/sitemap.html.gz
+Sitemap: https://etrionulon.github.io/app/sitemap.html.gz
+Sitemap: https://etrionulon.github.io/assets/sitemap.html.gz
+Sitemap: https://etrionulon.github.io/css/sitemap.html.gz
+Sitemap: https://etrionulon.github.io/includes/sitemap.html.gz
+Sitemap: https://etrionulon.github.io/item/sitemap.html.gz
+Sitemap: https://etrionulon.github.io/src/sitemap.html.gz
